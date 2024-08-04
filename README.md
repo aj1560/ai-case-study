@@ -1,9 +1,9 @@
 # Juniper Mist - An AI driven network solution
 
 ## Overview and Origin
-Juniper Networks Inc. (AKA Juniper) is one of the leaders in network industry for the last couple of decades. It was founded in early 1996 by Pradeep Sindhu, Dennis Ferguson and Bjorn Liencres. This paper  is focused on “Juniper Mist” which is Juniper’s foray into using AI for networks and it has its own history. Juniper acquired "Mist Systems Inc." in 2019 for ~400M and integrated the AI platform into the Juniper portfolio of network gear.
-
 Mist Systems Inc. was founded and incorporated in 2014 by Sujai Hajela (CEO) and Bob Friday (CTO).  Sujai and Bob both came from Cisco and had deep knowledge of network technologies. They thought of using the information available in wireless systems as the inputs to ML models and developing AI driven networks. They raised $108M over 4 years with some of the investors being Lightstream Venture Partners, Dimension Data, Google and Cisco.
+
+Juniper Networks Inc. (AKA Juniper) is one of the leaders in network industry for the last couple of decades. Juniper acquired "Mist Systems Inc." in 2019 for ~400M and integrated the AI platform into the Juniper portfolio of network gear. The competitors for Juniper Mist today are Cisco, Arista, Nice to name a few, these are still playing catch-up while Juniper is the learder.
 
 When Mist was founded in 2014, Enterprise networks were facing the challenges of being the roadblocks to business evolution. All the solutions in the market addressed networks in a nearly identical fashion - copious amounts of network hardware, monitor, manage, truck rolls, upgrade, replace, rinse and repeat. All of these actions required manual intervention and as such the lifecycle for networks was 8-10 years at a minimum, making network transformation a dreaded term that involved a significant cost, time and risk to business. If an organization decided to go with transformation they would end up with still the same problems they had in the old network - static and largely dependent on human intervention.
 
@@ -35,6 +35,8 @@ Note that the resolution time is quardrupled when Juniper Mist is not used.
 Note that the resolution cycle is eliminated for this problem entirely.
 
 ## Under the hood
-Mist was the first network product to create self-healing products driven by AI. This was a big leap for the network industry which was just getting used to the idea of software driven networks. The below video provides a brief summary into how the AI Engine was trained.
+Mist was the first network product to create self-healing products driven by AI. This was a big leap for the network industry which was just getting used to the idea of software driven networks. The below video provides a brief summary into how the AI Engine was trained. <a href="https://www.youtube.com/watch?v=h-cgOoxvPOI&list=PLGvolzhkU_gRu2Sq3O3yKpo8u0h3-NNe6&index=5">The graphics content of this video has been sourced from the Juniper AI series on youtube</a>
 
 ![Mist_video_git](https://github.com/aj1560/ai-case-study/blob/main/Mist_video_git.gif)
+
+
