@@ -1,6 +1,6 @@
 # Juniper Mist - An AI driven network solution
 
-## Overview and Origin
+## Overview and Origin 
 Mist Systems Inc. was founded and incorporated in 2014 by Sujai Hajela (CEO) and Bob Friday (CTO).  Sujai and Bob both came from Cisco and had deep knowledge of network technologies. They thought of using the information available in wireless systems as the inputs to ML models and developing AI driven networks. They raised $108M over 4 years with some of the investors being Lightstream Venture Partners, Dimension Data, Google and Cisco.
 
 Juniper Networks Inc. (AKA Juniper) is one of the leaders in network industry for the last couple of decades. Juniper acquired "Mist Systems Inc." in 2019 for ~400M and integrated the AI platform into the Juniper portfolio of network gear. The competitors for Juniper Mist today are Cisco, Arista, Nice to name a few, these are still playing catch-up while Juniper is the learder.
