@@ -37,10 +37,4 @@ Note that the resolution cycle is eliminated for this problem entirely.
 ## Under the hood
 Mist was the first network product to create self-healing products driven by AI. This was a big leap for the network industry which was just getting used to the idea of software driven networks. The below video provides a brief summary into how the AI Engine was trained.
 
-<video loop src="https://github.com/user-attachments/assets/fb47ba6d-769a-4d9c-9ab5-a1639080f256"> video </video>
-
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
-![Mist_video_git](https://github.com/user-attachments/assets/f52b1beb-920d-4517-9d32-c7e229ccbbc0)
-
-![Mist video_git](https://github.com/aj1560/ai-case-study/Mist_video_git.gif)
+![Mist_video_git](https://github.com/aj1560/ai-case-study/blob/main/Mist_video_git.gif)
