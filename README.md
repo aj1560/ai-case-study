@@ -41,5 +41,6 @@ Mist was the first network product to create self-healing products driven by AI.
 
 [![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
+![Mist_video_git](https://github.com/user-attachments/assets/f52b1beb-920d-4517-9d32-c7e229ccbbc0)
 
-
+![Mist video_git](https://github.com/aj1560/ai-case-study/Mist_video_git.gif)
