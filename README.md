@@ -22,7 +22,8 @@ Below are couple of examples that will help illustrate the value of Juniper Mist
 | 6. DHCP server issue identified                                            |                25:00               |                                                                                                                         |                                    |
 | 7. DHCP server fixed                                                       |                30:00               |                                                                                                                         |                                    |
 | 8. User successfully connects to the internet                              |                **31:00**               |                                                                                                                        
-Note that the resolution time is quardrupled when Juniper Mist is not used.
+
+*Note that the resolution time is quardrupled when Juniper Mist is not used.*
 
 **Example 2:** **Wireless slowdown for a section of the building**
 |  Network Engineer troubleshooting steps  without the Juniper Mist platform                     |  Elapsed time (mins) |                                                          Troubleshooting steps  with the Juniper Mist platform                                                           |  Elapsed time (mins) |
@@ -33,7 +34,8 @@ Note that the resolution time is quardrupled when Juniper Mist is not used.
 | 4. Check Wireless Radio Congestion                                                             |                13:00               |                                                                                                                                                                          |                                    |
 | 5. Identify alternate wireless radio channel and    switch the Access Point to the new channel |                17:00               |                                                                                                                                                                          |                                    |
 | 6. Congestion resolved                                                                         |                18:00               |                                                                                                                                                                          |                                    |
-Note that the resolution cycle is eliminated for this problem entirely.
+
+*Note that with Juniper Mist this issue is addressed before it becomes a problem and it is accomplished entirely by the AI engine.*
 
 ## Under the hood
 Mist was the first network product to create self-healing products driven by AI. This was a big leap for the network industry which was just getting used to the idea of software driven networks. The below video provides a brief summary into how the AI Engine was trained. <a href="https://www.youtube.com/watch?v=h-cgOoxvPOI&list=PLGvolzhkU_gRu2Sq3O3yKpo8u0h3-NNe6&index=5">The graphics content of this video has been sourced from the Juniper AI series on youtube</a>
