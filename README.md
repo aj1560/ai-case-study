@@ -39,5 +39,24 @@ Mist was the first network product to create self-healing products driven by AI.
 
 ![Mist_video_git](https://github.com/aj1560/ai-case-study/blob/main/Mist_video_git.gif)
 
-## Summary
+## Conclusion
 The early adoption of AI in networks was an extremely successful winning strategy for Mist. Mist is the leader in the space and having started with wireless networks as the focus, now other enterprise products such as LAN switches and routers, WAN routers are also part of the Mist platform. The network telemetry data collected through 30+ years of Juniper networks has been effectively used for training the ML model showcasing great results.
+
+## References for additional reading 
+<a href="https://www.juniper.net/us/en/research-topics/what-is-ai-native-networking.html">What is AI Native Networking?</a>
+
+<a href="https://m.youtube.com/playlist?list=PLGvolzhkU_gRu2Sq3O3yKpo8u0h3-NNe6">Juniper Mist Whiteboard Technical Series</a>
+
+<a href="https://www.juniper.net/documentation/us/en/software/mist/mist-aiops/mist-aiops.pdf">Juniper Mist AI Native Operations Guide</a>
+## Sources
+<a href="https://www.crunchbase.com/organization/mist-systems/company_financials">Company Information</a>
+
+<a href="https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx">Company registration search</a>
+
+<a href="https://newsroom.juniper.net/news/news-details/2019/Juniper-Networks-Announces-Intent-to-Acquire-Mist-Systems-to-Bring-AI-to-IT-Delivering-on-Promise-of-Software-Defined-Enterprise/default.aspx">Mist acquisition news</a>
+
+<a href="https://medium.com/lightspeed-venture-partners/mist-systems-joins-juniper-networks-e13e774d54d5">Article on the acquisition</a>
+
+<a href="https://m.youtube.com/playlist?list=PLGvolzhkU_gRu2Sq3O3yKpo8u0h3-NNe6">Juniper Mist Whiteboard Technical Series</a>
+
+
