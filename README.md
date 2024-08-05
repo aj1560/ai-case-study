@@ -39,4 +39,5 @@ Mist was the first network product to create self-healing products driven by AI.
 
 ![Mist_video_git](https://github.com/aj1560/ai-case-study/blob/main/Mist_video_git.gif)
 
-
+## Summary
+The early adoption of AI in networks was an extremely successful winning strategy for Mist. Mist is the leader in the space and having started with wireless networks as the focus, now other enterprise products such as LAN switches and routers, WAN routers are also part of the Mist platform. The network telemetry data collected through 30+ years of Juniper networks has been effectively used for training the ML model showcasing great results.
